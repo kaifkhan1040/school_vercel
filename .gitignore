@@ -22,7 +22,7 @@ env/
 *.log
 *.pot
 media/
-static/
+# static/
 local_settings.py
 
 # SQLite databases
