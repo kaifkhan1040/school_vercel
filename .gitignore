@@ -21,7 +21,8 @@ env/
 # Django specific
 *.log
 *.pot
-media/
+# media/
+media1/
 # static/
 local_settings.py
 
